@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_mood"
+        android:icon="@drawable/md"
+        android:title="Mood" />
+
+
+    <item
+        android:id="@+id/nav_journal"
+        android:icon="@drawable/jr"
+        android:title="Journal" />
+
+
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/hs"
+        android:title="History" />
+
+</menu>
